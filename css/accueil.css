@@ -1,0 +1,144 @@
+html{
+	width:99%;
+}
+a{
+	text-decoration:none;
+	font-weight: bold;
+}
+
+body{
+	width:99%;
+	background-color:orange;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	color:black;
+}
+
+#log{
+	position:fixed;
+	display:block;
+	z-index:9999;
+	float: left;
+	clear:both;
+	width:10%;
+	border: black 2px solid;
+	box-shadow: 2px 3px 2px white;
+	border-radius: 5px;
+}
+
+h1{
+	display:inline-block;
+	z-index: 1;
+	font-weight: bold;
+	text-align:center;
+	color:white;
+	width:95%;
+	height:auto;
+	border-color:black;
+	border-width:14px;
+	border-style:double;
+	background-color:purple;
+	position: relative;
+	border-radius: 10px;
+}
+
+#ou{
+	width:auto;
+	color: white;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+	background-color: purple;
+	text-align:center;
+	display:block;
+	justify-content: center;
+}
+
+.pres{
+	object-position: center;
+	border-style:solid;
+}
+
+.slogan{
+	color:white;
+	text-align:center;
+}
+
+.pic{
+	border-color: black;
+	border-style: solid;
+	background-color: purple;
+	width:97%;
+}
+
+.div1{
+	display: static;
+	text-align:center;
+	padding:10px;
+	color:black;
+	background-color:white;
+	width:auto;
+	height:auto;
+	border-style:solid;
+	border-color:purple;
+}
+
+.mobil{
+	position:relative;
+	background-color:orange;
+	border-color:purple;
+	border-style:solid;
+}
+
+.action{
+	background-color:orange;
+	border-color:purple;
+	border-style:solid;
+}
+
+.qui{
+	background-color:orange;
+	border-color:purple;
+	border-style:solid;
+}
+
+.inscription{
+	font-weight: bold;
+	text-decoration: none;
+	color:white;
+	text-align:center;
+	width:auto;
+	height:auto;
+	border-style:solid;
+	border-color:black;
+	background-color:purple;	
+}
+
+.infos{
+	width: auto;
+	height: auto;
+	background-color:white;
+}
+
+.contacts{
+	width:auto;
+	height:auto;
+	background-color:white;
+}
+
+.actions{
+	width:auto;
+	height:auto;
+	background-color:white;
+}
+
+footer{
+	border-top-style:solid;
+	border-top-color:black;
+	text-align: center;
+	color:white;
+	width:100%;
+	height:max-content;
+	position: relative;
+	top: 50px;
+	background-color:purple;
+}

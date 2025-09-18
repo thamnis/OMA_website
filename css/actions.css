@@ -1,0 +1,190 @@
+body{
+	width:98%;
+	background-color:orange;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	
+}
+
+a{
+	text-decoration:none;
+	font-weight: bold;
+}
+
+#log{
+	position:fixed;
+	display:block;
+	z-index:9999;
+	float: left;
+	clear:both;
+	width:10%;
+	border: black 2px solid;
+	box-shadow: 2px 3px 2px white;
+	border-radius: 5px;
+}
+
+h1{
+	font-weight: bold;
+	text-align:center;
+	color:white;
+	width:95%;
+	height:auto;
+	border-color:black;
+	border-width:14px;
+	border-style:double;
+	background-color:purple;
+	position: relative;
+	border-radius: 10px;
+}
+
+#ou{
+	color: white;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+	background-color: purple;
+	text-align:center;
+	display:block;
+	justify-content: center;
+}
+
+#famine{
+	position: relative;
+	text-align:center;
+	display:block;
+	justify-content: center;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+}
+
+.parcour{
+	color: white;
+	text-align:center;
+	background-color:purple;
+	width:95%;
+	height:auto;
+	border-style:solid;
+	border-color:black;
+	margin-left:5px;
+	border-radius:1px;
+}
+
+.pres{
+	border-color:black;
+	border-width:2px;
+	border-style:solid;
+}
+
+.pic{
+	color: white;
+	text-align:center;
+	background-color:purple;
+	width:95%;
+	height:auto;
+	border-style:solid;
+	border-color:black;
+	margin-left:5px;
+	border-radius:1px;
+}
+
+#prisca{
+	position: relative;
+	text-align:center;
+	display:block;
+	justify-content: center;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+}
+
+.eleve{
+	border-style:solid;
+	border-color:black;
+	border-width:2px;
+}
+
+#cantine{
+	text-align:center;
+	display:block;
+	justify-content: center;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+}
+
+.send{
+	color: white;
+	text-align:center;
+	background-color:purple;
+	width:95%;
+	height:20px;
+	border-style:solid;
+	border-color:black;
+	margin-left:5px;
+	border-radius:1px;
+}
+
+#ari{
+	position: relative;
+	text-align:center;
+	display:block;
+	justify-content: center;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+}
+
+.rice{
+	border-color:black;
+	border-width:2px;
+	border-style:solid;
+}
+
+.riz{
+	color: white;
+	text-align:center;
+	background-color:purple;
+	width:95%;
+	height:auto;
+	border-style:solid;
+	border-color:black;
+	margin-left:5px;
+	border-radius:1px;
+}
+
+#media{
+	border-color: black;
+	border-style: solid;
+	border-width: 5px;
+	background-color: white;
+}
+
+.infos{
+	width: auto;
+	height: auto;
+	background-color:white;
+}
+
+.cont{
+	width:auto;
+	height:auto;
+	background-color:white;
+}
+
+.accueil{
+	width:auto;
+	height:auto;
+	background-color:white;
+}
+
+footer{
+	border-top-style:solid;
+	border-top-color:black;
+	text-align: center;
+	color:white;
+	width:99%;
+	height:max-content;
+	position: relative;
+	top: 50px;
+	background-color:purple;
+}

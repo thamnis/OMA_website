@@ -1,0 +1,181 @@
+body{
+	width:98%;
+	height: auto;
+	background-color:orange;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+	text-decoration:none;
+	font-weight: bold;
+}
+
+#log{
+	position:fixed;
+	display:block;
+	z-index:9999;
+	float: left;
+	clear:both;
+	width:10%;
+	border: black 2px solid;
+	box-shadow: 2px 3px 2px white;
+	border-radius: 5px;
+}
+
+.first{
+	display: contents;
+	width: auto;
+	height:50px;
+}
+
+h1{
+	font-weight: bold;
+	text-align:center;
+	color:white;
+	width:95%;
+	height:auto;
+	border-color:black;
+	border-width:14px;
+	border-style:double;
+	background-color:purple;
+	position: relative;
+	border-radius: 10px;
+}
+
+#ou{
+	color: white;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+	background-color: purple;
+	text-align:center;
+	display:block;
+	justify-content: center;
+}
+
+.media{
+	width: 99%;
+	background-color: white;
+	height: max-content;
+	border:black solid 5px;
+}
+
+.orga{
+	color: white;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+	background-color: purple;
+	text-align:center;
+	display:block;
+	justify-content: center;
+}
+
+#oms{
+	text-align:center;
+	display:block;
+	justify-content: center;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+}
+
+.who{
+	width:40%;
+}
+
+#uno{
+	text-align:center;
+	display:block;
+	justify-content: center;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+}
+
+.onu{
+	width:40%;
+}
+
+#au{
+	text-align:center;
+	display:block;
+	justify-content: center;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+}
+
+.ua{
+	width:40%;
+	position: relative;
+	top:5px;
+}
+
+#eu{
+	text-align:center;
+	display:block;
+	justify-content: center;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+}
+
+.ue{
+	width:40%;
+	position: relative;
+	top:5px;
+}
+
+#mp{
+	text-align:center;
+	display:block;
+	justify-content: center;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+}
+
+.vid{
+	text-align:center;
+	justify-content: center;
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+}
+
+.infos{
+	width: auto;
+	height: auto;
+	background-color:white;
+}
+
+.contacts{
+	width:auto;
+	height:auto;
+	background-color:white;
+}
+
+.actions{
+	width:auto;
+	height:auto;
+	background-color:white;
+}
+
+.accueil{
+	width:auto;
+	height:auto;
+	background-color:white;
+}
+
+footer{
+	border-top-style:solid;
+	border-top-color:black;
+	text-align: center;
+	color:white;
+	width:99%;
+	height:max-content;
+	position: relative;
+	top: 50px;
+	background-color:purple;
+}
